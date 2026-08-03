@@ -1,0 +1,9 @@
+a=23
+b=6
+print("addition=",a+b)
+print("subtraction=",a-b)
+print("product=",a*b)
+print("division=",a/b)
+print("floor division=",a//b)
+print("modulas=",a%b)
+print("power=",a**b)
